@@ -53,13 +53,6 @@ a:hover, a:active {
 }
 
 
-/* p:first-letter
-{
-	font-weight: bold;
-	font-size: 24px;
-	color: #000;
-} */
-
 .hidden {
 	display: none;
 }
@@ -611,7 +604,7 @@ input[type=submit]:hover {
 .logoFooter {
   position: relative;
   width: 200px;
-  height: auto;
+  height: 72px;
   display: flex;
   margin: 20px auto 10px 30px;
 }
